@@ -1,0 +1,17 @@
+body{
+    background-color: #f4f4ae;
+}
+
+#row1{
+    background-color: blueviolet;
+    height: 200px;
+}
+
+#col1, #col3{
+    background-color: aqua;
+}
+
+#row2{
+    margin: 10px;
+    background-color: aquamarine;
+}
